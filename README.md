@@ -1,6 +1,27 @@
 <h1 align="left">Hey there, I'm Yatharth Roy! 👋</h1>
 
 ###
+<!-- AppleHelloVietnamese Static SVG -->
+<svg class="h-20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1009 200" fill="none" stroke="currentColor" stroke-width="14.8883">
+  <title>xin chào</title>
+  <path d="M102.233 96.2277C75.6823 127.245 45.1612 158.759 11.4143 190.521" stroke-linecap="round"/>
+  <path d="M7.69214 116.575C9.67725 105.16 ... 166.043 96.2273" stroke-linecap="round"/>
+  <path d="M166.043 96.2273C163.191 113.101 ... 248.139 96.2273" stroke-linecap="round"/>
+  <path d="M248.139 96.2278C243.424 127.741 239.454 158.759 234.491 190.272" stroke-linecap="round"/>
+  <path d="M237.873 167.951C244.704 121.32 ... 364.143 165.965" stroke-linecap="round"/>
+  <path d="M535.91 109.876C531.265 100.446 ... 584.367 190.521" stroke-linecap="round"/>
+  <path d="M585.413 181.299C590.677 135.025 ... 725.613 135.196" stroke-linecap="round"/>
+  <path d="M803.871 112.995C799.007 101.8 ... 806.51 96.2274" stroke-linecap="round"/>
+  <path d="M806.51 96.2274C805.486 102.73 ... 1000.74 96.8832" stroke-linecap="round"/>
+  <path class="stroke-yellow-400" d="M763.027 19.3039C768.734 34.6886 780.397 48.3362 792.059 55.5322" stroke-linecap="round"/>
+</svg>
+
+<!-- AppleHelloEnglish Static SVG -->
+<svg class="h-20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 638 200" fill="none" stroke="currentColor" stroke-width="14.8883">
+  <title>hello</title>
+  <path d="M8.69214 166.553C36.2393 151.239 ... 54.1166 190.356" stroke-linecap="round"/>
+  <path d="M55.1624 181.135C60.6251 133.114 ... 630.047 96.7186" stroke-linecap="round"/>
+</svg>
 
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5djV5MmVraW5haGRzcmZhOHJtNnlyNHA4YngyNWVuOGl2bXdubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif"  />
 
